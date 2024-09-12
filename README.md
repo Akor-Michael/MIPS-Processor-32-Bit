@@ -140,7 +140,7 @@ For questions or feedback, please contact:
 
 - **Author**: Akor Michael
 - **Email**: <akormichaeljohn@gmail.com>
-- **GitHub**: [yourusername](https://github.com/yourusername)
+- **GitHub**: [Akor Michael](https://github.com/akormichael)
 
 ---
 
